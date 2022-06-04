@@ -20,3 +20,6 @@ for linhaCliente in clientes:
   print ('CPF: ' + cliente.cpf)
   print ('Valor a receber: ' + cliente.valor)
                     
+print("")
+
+input('Tecle Enter Para Sair: ')
